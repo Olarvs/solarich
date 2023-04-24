@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Solarich logo" class="logo" src="@/assets/img/logo-only.png" width="125" height="125" />
+    <img alt="Solarich logo" class="logo" src="https://res.cloudinary.com/dh3m4os9t/image/upload/v1682312932/Solarich%20ECorp/Solarich-logo-only_pdoqfi.png" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="Welcome to Solarich!" />
